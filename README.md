@@ -45,19 +45,6 @@ An interactive Power BI dashboard that analyzes Super Store sales (2019–2020),
 - Microsoft Power BI Desktop (DAX, Power Query, built-in forecasting)
 - Time series analysis (year-over-year comparison, trend and seasonality, 15-day forecast)
 
-## Repository Structure
-
-```
-super-store-sales-dashboard/
-├── README.md
-├── Sales_Dashboard.pbix        # Power BI file
-├── Sales_Dashboard.pdf         # Exported dashboard
-├── data/                       # Dataset (or a link to its source)
-└── images/
-    ├── dashboard.png
-    └── forecast.png
-```
-
 ## How to Use
 
 1. Download or clone this repository.
